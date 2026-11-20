@@ -1,0 +1,14 @@
+.git
+.gitignore
+.gitattributes
+.agents
+.vscode
+.idea
+.env
+.env.*
+target
+build
+HELP.md
+README.md
+AGENTS.md
+*.iml
